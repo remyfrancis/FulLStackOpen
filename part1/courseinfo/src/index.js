@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-//Exercises 1.1 and 1.2
+//FSO Exercises 1.1 and 1.2
 
 const App = (props) => {
   const course = 'Half Stack application development'

@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+//Exercises 1.1 and 1.2
+
 const App = (props) => {
   const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'

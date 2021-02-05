@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-//FSO Exercises 1.1 and 1.2
+//FSO Exercise 1.3
 
 const App = () => {
   const course = 'Half Stack application development'
@@ -48,7 +48,7 @@ const Part = (props) => {
 const Content = (props) => {
   return (
     <div>
-      <Part part={props.part1} number={props.exercises1}/> /* exercises go here */
+      <Part part={props.part1} number={props.exercises1}/> 
       <Part part={props.part2} number={props.exercises2}/>
       <Part part={props.part3} number={props.exercises3}/>
     </div>
